@@ -18,7 +18,7 @@ The following repositories contain all the code required to complete the analysi
 
 For best experience code should be downloaded into the following structure:
 
-- UCL-IFRC-IXN4
+/UCL-IFRC-IXN4
 |---- Data/
 |------ DI-data/
 |------ IDMC-data
