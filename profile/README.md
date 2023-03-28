@@ -19,17 +19,17 @@ The following repositories contain all the code required to complete the analysi
 For best experience code should be downloaded into the following structure:
 
 /UCL-IFRC-IXN4<br />
-|---- Data/
-|------ DI-data/
-|------ IDMC-data
-|------ EMDAT-data
-|------ IFRC-data
-|---- Data Downloader/
-|------ src/
-|------ transl_dict/
-|---- Data Shaper/
-|------ src/
-|---- Data Processor/
-|------ src/
-|---- Data Visualiser/
-|------ src/
+|---- Data/<br />
+|------ DI-data/<br />
+|------ IDMC-data<br />
+|------ EMDAT-data<br />
+|------ IFRC-data<br />
+|---- Data Downloader/<br />
+|------ src/<br />
+|------ transl_dict/<br />
+|---- Data Shaper/<br />
+|------ src/<br />
+|---- Data Processor/<br />
+|------ src/<br />
+|---- Data Visualiser/<br />
+|------ src/<br />
