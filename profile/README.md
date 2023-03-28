@@ -18,6 +18,7 @@ The following repositories contain all the code required to complete the analysi
 
 For best experience code should be downloaded into the following structure:
 
+```bash
 /UCL-IFRC-IXN4<br />
 |---- Data/<br />
 |------ DI-data/<br />
@@ -33,3 +34,4 @@ For best experience code should be downloaded into the following structure:
 |------ src/<br />
 |---- Data Visualiser/<br />
 |------ src/<br />
+```
