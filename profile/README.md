@@ -15,3 +15,21 @@ The following repositories contain all the code required to complete the analysi
 - [Data Shaper](https://github.com/UCL-IFRC-IXN4/data-shaper.git)
 - [Data Processor](https://github.com/UCL-IFRC-IXN4/data-processor.git)
 - [Data Visualiser](https://github.com/UCL-IFRC-IXN4/data-downloader.git)
+
+For best experience code should be downloaded into the following structure:
+
+- UCL-IFRC-IXN4
+|---- Data/
+|------ DI-data/
+|------ IDMC-data
+|------ EMDAT-data
+|------ IFRC-data
+|---- Data Downloader/
+|------ src/
+|------ transl_dict/
+|---- Data Shaper/
+|------ src/
+|---- Data Processor/
+|------ src/
+|---- Data Visualiser/
+|------ src/
