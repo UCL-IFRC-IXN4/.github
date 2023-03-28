@@ -20,18 +20,18 @@ For best experience code should be downloaded into the following structure:
 
 ```bash
 /UCL-IFRC-IXN4<br />
-|---- Data/<br />
-|------ DI-data/<br />
-|------ IDMC-data<br />
-|------ EMDAT-data<br />
-|------ IFRC-data<br />
-|---- Data Downloader/<br />
-|------ src/<br />
-|------ transl_dict/<br />
-|---- Data Shaper/<br />
-|------ src/<br />
-|---- Data Processor/<br />
-|------ src/<br />
-|---- Data Visualiser/<br />
-|------ src/<br />
+|──── Data/<br />
+|────── DI-data/<br />
+|────── IDMC-data<br />
+|────── EMDAT-data<br />
+|────── IFRC-data<br />
+|──── Data Downloader/<br />
+|────── src/<br />
+|────── transl_dict/<br />
+|──── Data Shaper/<br />
+|────── src/<br />
+|──── Data Processor/<br />
+|────── src/<br />
+|──── Data Visualiser/<br />
+|────── src/<br />
 ```
